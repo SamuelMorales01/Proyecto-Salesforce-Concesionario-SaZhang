@@ -1,0 +1,26 @@
+<aura:component>
+  <form>
+    <table aura:id="registros"><!--le ponemos el aura:id para poder llamar luego a la tabla -->
+      <tr>
+        <th>Matricula</th>
+        <input type="text" aura:id="matricula" />
+      </tr>
+      <tr>
+        <th>Marca</th>
+        <input type="text" aura:id="marca" />
+      </tr>
+      <tr>
+        <th>Modelo</th>
+        <input type="text" aura:id="modelo" />
+      </tr>
+      <tr>
+        <th>Color</th>
+        <input type="text" aura:id="color" />
+      </tr>
+      <tr>
+        <input type="button" onclick="{!c.addStockVehicules}" value="Send Registro" />
+      </tr>
+      <br></br>
+    </table>
+  </form>
+</aura:component>

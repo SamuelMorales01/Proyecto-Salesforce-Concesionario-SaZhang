@@ -1,0 +1,41 @@
+<aura:component>
+    <aura:handler event="c:insertIntoVentas" action="{!c.addToTable}" />
+    <aura:attribute name="output" type="string[]" />
+    <table style="border: 1px solid black; align-content: center;">
+        <tr>
+            <td style="border: 1px solid black;">&nbsp;Comercial&nbsp;</td>
+            <td style="border: 1px solid black;">&nbsp;Cliente&nbsp;</td>
+            <td style="border: 1px solid black;">&nbsp;Matricula&nbsp;</td>
+            <td style="border: 1px solid black;">&nbsp;Fecha Venta&nbsp;</td>
+            <td style="border: 1px solid black;">&nbsp;Precio Venta &nbsp;</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">
+                <aura:iteration items="{!v.output}" var="out" indexVar="index">
+        <tr>{!out.nombreComercial}</tr>
+        </aura:iteration>
+        </td>
+        <td style="border: 1px solid black;">
+            <aura:iteration items="{!v.output}" var="out" indexVar="index">
+                <tr>{!out.nombreCliente}</tr>
+            </aura:iteration>
+        </td>
+        <td style="border: 1px solid black;">
+            <aura:iteration items="{!v.output}" var="out" indexVar="index">
+                <tr>{!out.matriculaVenta}</tr>
+            </aura:iteration>
+        </td>
+        <td style="border: 1px solid black;">
+            <aura:iteration items="{!v.output}" var="out" indexVar="index">
+                <tr>{!out.fechaVenta}</tr>
+            </aura:iteration>
+        </td>
+        <td style="border: 1px solid black;">
+            <aura:iteration items="{!v.output}" var="out" indexVar="index">
+                <tr>{!out.precioVenta}</tr>
+            </aura:iteration>
+        </td>
+        </tr>
+
+    </table>
+</aura:component>

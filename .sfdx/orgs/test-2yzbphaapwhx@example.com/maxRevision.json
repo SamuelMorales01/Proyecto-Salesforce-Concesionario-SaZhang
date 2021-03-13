@@ -1,0 +1,467 @@
+{
+  "serverMaxRevisionCounter": 708,
+  "sourceMembers": {
+    "AuraDefinitionBundle__Ventas": {
+      "serverRevisionCounter": 707,
+      "lastRetrievedFromServer": 707,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": true
+    },
+    "AuraDefinitionBundle__insertIntoVentas": {
+      "serverRevisionCounter": 75,
+      "lastRetrievedFromServer": 75,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__ListadoStock": {
+      "serverRevisionCounter": 465,
+      "lastRetrievedFromServer": 465,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__FormularioVentas": {
+      "serverRevisionCounter": 276,
+      "lastRetrievedFromServer": 276,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__insertIntoStock": {
+      "serverRevisionCounter": 29,
+      "lastRetrievedFromServer": 29,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__RegistroApp": {
+      "serverRevisionCounter": 708,
+      "lastRetrievedFromServer": 708,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": true
+    },
+    "AuraDefinitionBundle__FormularioRegistro": {
+      "serverRevisionCounter": 698,
+      "lastRetrievedFromServer": 698,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__SaZhang": {
+      "serverRevisionCounter": 690,
+      "lastRetrievedFromServer": 690,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__Listado": {
+      "serverRevisionCounter": 56,
+      "lastRetrievedFromServer": 56,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Ventas/Ventas.app": {
+      "serverRevisionCounter": 2,
+      "lastRetrievedFromServer": 2,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Ventas/VentasController.js": {
+      "serverRevisionCounter": 3,
+      "lastRetrievedFromServer": 3,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Ventas/VentasHelper.js": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": 4,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Ventas/Ventas.css": {
+      "serverRevisionCounter": 5,
+      "lastRetrievedFromServer": 5,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Ventas/Ventas.auradoc": {
+      "serverRevisionCounter": 6,
+      "lastRetrievedFromServer": 6,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Ventas/VentasRenderer.js": {
+      "serverRevisionCounter": 7,
+      "lastRetrievedFromServer": 7,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Ventas/Ventas.svg": {
+      "serverRevisionCounter": 8,
+      "lastRetrievedFromServer": 8,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__insertIntoVentas/insertIntoVentas.evt": {
+      "serverRevisionCounter": 76,
+      "lastRetrievedFromServer": 76,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ListadoStock/ListadoStock.cmp": {
+      "serverRevisionCounter": 466,
+      "lastRetrievedFromServer": 466,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ListadoStock/ListadoStockController.js": {
+      "serverRevisionCounter": 467,
+      "lastRetrievedFromServer": 467,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ListadoStock/ListadoStockHelper.js": {
+      "serverRevisionCounter": 468,
+      "lastRetrievedFromServer": 468,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ListadoStock/ListadoStock.css": {
+      "serverRevisionCounter": 469,
+      "lastRetrievedFromServer": 469,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ListadoStock/ListadoStock.auradoc": {
+      "serverRevisionCounter": 470,
+      "lastRetrievedFromServer": 470,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ListadoStock/ListadoStockRenderer.js": {
+      "serverRevisionCounter": 471,
+      "lastRetrievedFromServer": 471,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ListadoStock/ListadoStock.design": {
+      "serverRevisionCounter": 472,
+      "lastRetrievedFromServer": 472,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ListadoStock/ListadoStock.svg": {
+      "serverRevisionCounter": 473,
+      "lastRetrievedFromServer": 473,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioVentas/FormularioVentas.cmp": {
+      "serverRevisionCounter": 277,
+      "lastRetrievedFromServer": 277,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioVentas/FormularioVentasController.js": {
+      "serverRevisionCounter": 278,
+      "lastRetrievedFromServer": 278,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioVentas/FormularioVentasHelper.js": {
+      "serverRevisionCounter": 279,
+      "lastRetrievedFromServer": 279,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioVentas/FormularioVentas.css": {
+      "serverRevisionCounter": 280,
+      "lastRetrievedFromServer": 280,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioVentas/FormularioVentas.auradoc": {
+      "serverRevisionCounter": 281,
+      "lastRetrievedFromServer": 281,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioVentas/FormularioVentasRenderer.js": {
+      "serverRevisionCounter": 282,
+      "lastRetrievedFromServer": 282,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioVentas/FormularioVentas.design": {
+      "serverRevisionCounter": 283,
+      "lastRetrievedFromServer": 283,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioVentas/FormularioVentas.svg": {
+      "serverRevisionCounter": 284,
+      "lastRetrievedFromServer": 284,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__insertIntoStock/insertIntoStock.evt": {
+      "serverRevisionCounter": 30,
+      "lastRetrievedFromServer": 30,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__RegistroApp/RegistroApp.app": {
+      "serverRevisionCounter": 32,
+      "lastRetrievedFromServer": 32,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__RegistroApp/RegistroAppController.js": {
+      "serverRevisionCounter": 33,
+      "lastRetrievedFromServer": 33,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__RegistroApp/RegistroAppHelper.js": {
+      "serverRevisionCounter": 34,
+      "lastRetrievedFromServer": 34,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__RegistroApp/RegistroApp.css": {
+      "serverRevisionCounter": 35,
+      "lastRetrievedFromServer": 35,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__RegistroApp/RegistroApp.auradoc": {
+      "serverRevisionCounter": 36,
+      "lastRetrievedFromServer": 36,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__RegistroApp/RegistroAppRenderer.js": {
+      "serverRevisionCounter": 37,
+      "lastRetrievedFromServer": 37,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__RegistroApp/RegistroApp.svg": {
+      "serverRevisionCounter": 38,
+      "lastRetrievedFromServer": 38,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioRegistro/FormularioRegistro.cmp": {
+      "serverRevisionCounter": 699,
+      "lastRetrievedFromServer": 699,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioRegistro/FormularioRegistroController.js": {
+      "serverRevisionCounter": 700,
+      "lastRetrievedFromServer": 700,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioRegistro/FormularioRegistroHelper.js": {
+      "serverRevisionCounter": 701,
+      "lastRetrievedFromServer": 701,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioRegistro/FormularioRegistro.css": {
+      "serverRevisionCounter": 702,
+      "lastRetrievedFromServer": 702,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioRegistro/FormularioRegistro.auradoc": {
+      "serverRevisionCounter": 703,
+      "lastRetrievedFromServer": 703,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioRegistro/FormularioRegistroRenderer.js": {
+      "serverRevisionCounter": 704,
+      "lastRetrievedFromServer": 704,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioRegistro/FormularioRegistro.design": {
+      "serverRevisionCounter": 705,
+      "lastRetrievedFromServer": 705,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__FormularioRegistro/FormularioRegistro.svg": {
+      "serverRevisionCounter": 706,
+      "lastRetrievedFromServer": 706,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__SaZhang/SaZhang.app": {
+      "serverRevisionCounter": 691,
+      "lastRetrievedFromServer": 691,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__SaZhang/SaZhangController.js": {
+      "serverRevisionCounter": 692,
+      "lastRetrievedFromServer": 692,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__SaZhang/SaZhangHelper.js": {
+      "serverRevisionCounter": 693,
+      "lastRetrievedFromServer": 693,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__SaZhang/SaZhang.css": {
+      "serverRevisionCounter": 694,
+      "lastRetrievedFromServer": 694,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__SaZhang/SaZhang.auradoc": {
+      "serverRevisionCounter": 695,
+      "lastRetrievedFromServer": 695,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__SaZhang/SaZhangRenderer.js": {
+      "serverRevisionCounter": 696,
+      "lastRetrievedFromServer": 696,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__SaZhang/SaZhang.svg": {
+      "serverRevisionCounter": 697,
+      "lastRetrievedFromServer": 697,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Listado/Listado.cmp": {
+      "serverRevisionCounter": 57,
+      "lastRetrievedFromServer": 57,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Listado/ListadoController.js": {
+      "serverRevisionCounter": 58,
+      "lastRetrievedFromServer": 58,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Listado/ListadoHelper.js": {
+      "serverRevisionCounter": 59,
+      "lastRetrievedFromServer": 59,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Listado/Listado.css": {
+      "serverRevisionCounter": 60,
+      "lastRetrievedFromServer": 60,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Listado/Listado.auradoc": {
+      "serverRevisionCounter": 61,
+      "lastRetrievedFromServer": 61,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Listado/ListadoRenderer.js": {
+      "serverRevisionCounter": 62,
+      "lastRetrievedFromServer": 62,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Listado/Listado.design": {
+      "serverRevisionCounter": 63,
+      "lastRetrievedFromServer": 63,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__Listado/Listado.svg": {
+      "serverRevisionCounter": 64,
+      "lastRetrievedFromServer": 64,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__insertIntoContadorStock": {
+      "serverRevisionCounter": 73,
+      "lastRetrievedFromServer": 73,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__ContadorStock": {
+      "serverRevisionCounter": 438,
+      "lastRetrievedFromServer": 438,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__insertIntoContadorStock/insertIntoContadorStock.evt": {
+      "serverRevisionCounter": 74,
+      "lastRetrievedFromServer": 74,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ContadorStock/ContadorStock.cmp": {
+      "serverRevisionCounter": 439,
+      "lastRetrievedFromServer": 439,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ContadorStock/ContadorStockController.js": {
+      "serverRevisionCounter": 440,
+      "lastRetrievedFromServer": 440,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ContadorStock/ContadorStockHelper.js": {
+      "serverRevisionCounter": 441,
+      "lastRetrievedFromServer": 441,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ContadorStock/ContadorStock.css": {
+      "serverRevisionCounter": 442,
+      "lastRetrievedFromServer": 442,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ContadorStock/ContadorStock.auradoc": {
+      "serverRevisionCounter": 443,
+      "lastRetrievedFromServer": 443,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ContadorStock/ContadorStockRenderer.js": {
+      "serverRevisionCounter": 444,
+      "lastRetrievedFromServer": 444,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ContadorStock/ContadorStock.design": {
+      "serverRevisionCounter": 445,
+      "lastRetrievedFromServer": 445,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__ContadorStock/ContadorStock.svg": {
+      "serverRevisionCounter": 446,
+      "lastRetrievedFromServer": 446,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    },
+    "AuraDefinitionBundle__restaIntoContadorStock": {
+      "serverRevisionCounter": 274,
+      "lastRetrievedFromServer": 274,
+      "memberType": "AuraDefinitionBundle",
+      "isNameObsolete": false
+    },
+    "AuraDefinition__restaIntoContadorStock/restaIntoContadorStock.evt": {
+      "serverRevisionCounter": 275,
+      "lastRetrievedFromServer": 275,
+      "memberType": "AuraDefinition",
+      "isNameObsolete": false
+    }
+  }
+}
